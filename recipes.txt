@@ -11,6 +11,10 @@ tk u
 panir 
 kaju kari and roti
 
+this is  about main branch and add pull the changes into slave 
+main
+main to slave
+
 
 
 dear
