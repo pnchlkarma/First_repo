@@ -1,17 +1,1 @@
-paw bhaji
-
-Pani puri
-
-Ice-Cream
-
-Dairy Milk and Park in Java branch
-
-tk u
-
-panir 
-kaju kari and roti
-
-
-
-dear
-
+Cout<<"Good Afternoon thins is cpp"
